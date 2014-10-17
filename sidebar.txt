@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mmi:home|Door43 (mmi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mmi|d43-mmi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mmi/archive/master.zip|d43-mmi.zip]]
+
+**Recent Changes**
+{{changes>ns = mmi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mmi|Ethnologue data]]
+
